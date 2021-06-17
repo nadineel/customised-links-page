@@ -4,11 +4,11 @@ html{
     :before{box-sizing:inherit}
     body{
         background-color:#83b7d4;
-        background-image:linear-gradient(#8fcaca 10%,#cce2cb 190%);
+        background-image:linear-gradient(#B7F8DB 40%, #50A7C2 160%);
         color:#000000;                                                 
         min-height:100vh;
         text-align:center;
-        font-family:"Crimson Text",sans-serif;
+        font-family:'Noto Serif', serif;
         }
         
         a:hover{background-color:#906fa8;color:#fff}
